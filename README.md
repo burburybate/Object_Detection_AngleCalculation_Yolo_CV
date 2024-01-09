@@ -2,11 +2,11 @@
 # Object_Detection_AngleCalculation_Yolo_CV
 Object detection Model with inclined angle calculation feature.\
 It incorporates yolov8, opencv2, with custom built yolov8 training dataset.
-![alt text](https://github.com/imranadas/Object_Detection_AngleCalculation_Yolo_CV/blob/main/1.jpg?raw=true)
-![alt text](https://github.com/imranadas/Object_Detection_AngleCalculation_Yolo_CV/blob/main/2.jpg?raw=true)
-![alt text](https://github.com/imranadas/Object_Detection_AngleCalculation_Yolo_CV/blob/main/3.jpg?raw=true)
-![alt text](https://github.com/imranadas/Object_Detection_AngleCalculation_Yolo_CV/blob/main/4.jpg?raw=true)
-![alt text](https://github.com/imranadas/Object_Detection_AngleCalculation_Yolo_CV/blob/main/5.jpg?raw=true)
+![alt text](https://github.com/buryburybate/Object_Detection_AngleCalculation_Yolo_CV/blob/main/1.jpg?raw=true)
+![alt text](https://github.com/buryburybate/Object_Detection_AngleCalculation_Yolo_CV/blob/main/2.jpg?raw=true)
+![alt text](https://github.com/buryburybate/Object_Detection_AngleCalculation_Yolo_CV/blob/main/3.jpg?raw=true)
+![alt text](https://github.com/buryburybate/Object_Detection_AngleCalculation_Yolo_CV/blob/main/4.jpg?raw=true)
+![alt text](https://github.com/buryburybate/Object_Detection_AngleCalculation_Yolo_CV/blob/main/5.jpg?raw=true)
 ## Installation
 1. Create a new venv 
 ```
@@ -18,7 +18,7 @@ python venv -m Your_Venv_Name /path/to/your/venv/location
 ```
 3. Clone this git repo
 ```
-git clone https://github.com/imranadas/Object_Detection_AngleCalculation_Yolo_CV.git
+git clone https://github.com/burburybate/Object_Detection_AngleCalculation_Yolo_CV
 ```
 4. Install libraries from requirements.txt in active venv
 ```
